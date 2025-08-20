@@ -13,7 +13,7 @@ Let's practice using the W3C's HTML Validator!
 In this lab we'll use the W3C Validator to make our invalid HTML happy! You
 might need to change how you work this problem depending on your work
 environment. Either way you'll learn to fix invalid HTML.
-
+o
 ## Getting Started
 
 **Fork and clone** this lesson into your local environment. Navigate into its
